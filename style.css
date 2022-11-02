@@ -62,7 +62,7 @@
 }
 .btn{
     position: absolute;
-    right: 42px;
+    right:3px;
 }
 
 .login-btn:hover{
@@ -148,4 +148,7 @@ h4{
 }
 .footer{
     background-image: linear-gradient(aqua,violet);
+}
+.fa-heart{
+    color:#f44336
 }
