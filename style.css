@@ -28,7 +28,20 @@
     margin-top:1.5rem;
     position: absolute;
     top:35px; right:20px;
-
+}
+.theme-btn{
+    width:75px;
+    padding: 8px 0;
+    border:2px solid;
+    border-radius: 20px;
+    background: transparent;
+    color:#fff;
+    display: flex;
+    justify-content: center;
+    margin-right:35px;
+    margin-top:1.5rem;
+    position: absolute;
+    top:90px; right:20px;
 }
 .header h1{
     display: flex;
@@ -52,6 +65,10 @@
     right: 42px;
 }
 
+.login-btn:hover{
+  background-color:gray;
+  color: black;
+}
 .price{
     width:52px;
     height:50px;
@@ -107,6 +124,9 @@
 }
 h4{
     font-family: "Trirong", serif;
+}
+.h1Gallery{
+    font-family: "Sofia", serif;
 }
 .gallery-box img{
     border-radius: 20px;
