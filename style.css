@@ -24,24 +24,10 @@
     color:#fff;
     display: flex;
     justify-content: center;
-    margin-right:35px;
+    margin-left:auto;
     margin-top:1.5rem;
     position: absolute;
-    top:35px; right:20px;
-}
-.theme-btn{
-    width:75px;
-    padding: 8px 0;
-    border:2px solid;
-    border-radius: 20px;
-    background: transparent;
-    color:#fff;
-    display: flex;
-    justify-content: center;
-    margin-right:35px;
-    margin-top:1.5rem;
-    position: absolute;
-    top:90px; right:20px;
+    top:45px; right:31px;
 }
 .header h1{
     display: flex;
@@ -111,9 +97,11 @@
 }
 .feature-box{
     box-shadow:0 0 10px 1px;
+    
+    
 }
 .feature-details{
-    padding: 20px;
+    padding: 18px;
     text-align: justify;
 }
 .h1Travel{
